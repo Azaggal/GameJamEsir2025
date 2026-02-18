@@ -78,6 +78,3 @@ Le jeu est structuré en plusieurs composants clés:
 ## Crédits
 - Jeu développé dans le cadre d'une Game Jam (basé sur le logo affiché au démarrage)
 - Musique et effets sonores inclus dans les assets
-
-## Licence
-[Vos informations de licence ici]
