@@ -1,0 +1,18 @@
+{
+    "display_resolution": [
+        1280,
+        720
+    ],
+    "volume": 0.4,
+    "fullscreen": true,
+    "show_fps": true,
+    "play_intro": false,
+    "musique": true,
+    "pygame.K_q": "pygame.K_q",
+    "pygame.K_d": "pygame.K_d",
+    "pygame.K_SPACE": "pygame.K_SPACE",
+    "pygame.K_ESCAPE": "pygame.K_ESCAPE",
+    "skin1": "assets/entities/player/perso_skin1.png",
+    "skin2": "assets/entities/player/perso_skin2.png",
+    "skin3": "assets/entities/player/perso_skin2.png"
+}
